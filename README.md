@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard
 
-##Dashboard Screenshot
+## Dashboard Screenshot
 Here’s a preview of the interactive dashboard:
 
 ![HR Analytics Dashboard](https://github.com/Harsita11/HR-Analytics-Dashboard/blob/main/Image.png)
