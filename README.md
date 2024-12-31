@@ -20,4 +20,4 @@ Help an organization improve employee performance and retention (reduce attritio
 - **Data Visualization**: Effective use of charts, graphs, and maps to display insights.
 - **Data Cleaning and Analysis**: Employed Power Query for data transformation and preparation.
 
-                                                                         ~~~~~Thank You~~~~~
+    ~~~~~Thank You~~~~~
